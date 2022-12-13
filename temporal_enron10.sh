@@ -1,0 +1,2 @@
+python3 entries/train.py --cfg configs/link_pred_temporal_wiki.yaml --attack_method 'random' --lr 0.0005 --device 0 
+python3 entries/train.py --cfg configs/link_pred_temporal_wiki.yaml --attack_method 'random' --lr 0.0001 --device 0
